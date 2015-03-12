@@ -1,0 +1,1 @@
+This python bluetooth server requires the PyBluez library
